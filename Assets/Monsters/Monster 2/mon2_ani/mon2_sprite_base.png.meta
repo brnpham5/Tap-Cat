@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: c5af24fb9afc4304db944da8ad4e644a
+timeCreated: 1471166530
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mon2_idle_01
+    21300002: mon2_idle_02
+    21300004: mon2_idle_03
+    21300006: mon2_idle_04
+    21300008: mon2_walk_01
+    21300010: mon2_walk_02
+    21300012: mon2_walk_03
+    21300014: mon2_walk_04
+    21300016: mon2_attack_01
+    21300018: mon2_attack_02
+    21300020: mon2_attack_03
+    21300022: mon2_attack_04
+    21300024: mon2_death_01
+    21300026: mon2_death_02
+    21300028: mon2_death_03
+    21300030: mon2_death_04
+    21300032: mon2_death_05
+    21300034: mon2_death_06
+    21300036: mon2_death_07
+    21300038: mon2_skull_01
+    21300040: mon2_skull_02
+    21300042: mon2_skull_03
+    21300044: mon2_skull_04
+    21300046: mon2_skull_05
+    21300048: mon2_skull_06
+    21300050: mon2_skull_07
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mon2_idle_01
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 451
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon2_idle_02
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 451
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon2_idle_03
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 451
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon2_idle_04
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 451
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon2_walk_01
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 387
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon2_walk_02
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 387
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon2_walk_03
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 387
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon2_walk_04
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 387
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon2_attack_01
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 323
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon2_attack_02
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 323
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon2_attack_03
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 323
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon2_attack_04
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 323
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon2_death_01
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 259
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon2_death_02
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 259
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon2_death_03
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 259
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 22}
+        - {x: -18, y: 22}
+        - {x: -18, y: -5}
+        - {x: -14, y: -22}
+        - {x: 14, y: -22}
+        - {x: 18, y: -18}
+        - {x: 18, y: -4}
+      - - {x: 15, y: 8}
+        - {x: 12, y: 5}
+        - {x: 12, y: 3}
+        - {x: 15, y: 0}
+        - {x: 17, y: 0}
+        - {x: 18, y: 1}
+        - {x: 18, y: 7}
+        - {x: 17, y: 8}
+      - - {x: 8, y: 17}
+        - {x: 5, y: 17}
+        - {x: 4, y: 14}
+        - {x: 4, y: 12}
+        - {x: 7, y: 9}
+        - {x: 8, y: 9}
+        - {x: 11, y: 12}
+        - {x: 11, y: 16}
+    - name: mon2_death_04
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 259
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 23.5}
+        - {x: -19, y: 23.5}
+        - {x: -19, y: -4.5}
+        - {x: -10, y: -23.5}
+        - {x: 19, y: -23.5}
+        - {x: 19, y: -2.5}
+      - - {x: 17, y: 0.5}
+        - {x: 14, y: -2.5}
+        - {x: 14, y: -3.5}
+        - {x: 17, y: -6.5}
+        - {x: 19, y: -5.5}
+        - {x: 19, y: -0.5}
+        - {x: 18, y: 0.5}
+      - - {x: 11, y: 10.5}
+        - {x: 9, y: 9.5}
+        - {x: 9, y: 4.5}
+        - {x: 12, y: 2.5}
+        - {x: 16, y: 2.5}
+        - {x: 17, y: 4.5}
+        - {x: 17, y: 10.5}
+      - - {x: 5, y: 15.5}
+        - {x: 2, y: 15.5}
+        - {x: 1, y: 12.5}
+        - {x: 1, y: 10.5}
+        - {x: 4, y: 7.5}
+        - {x: 5, y: 7.5}
+        - {x: 8, y: 10.5}
+        - {x: 8, y: 14.5}
+      - - {x: 8, y: 21.5}
+        - {x: 7, y: 19.5}
+        - {x: 7, y: 14.5}
+        - {x: 9, y: 13.5}
+        - {x: 14, y: 13.5}
+        - {x: 15, y: 16.5}
+        - {x: 15, y: 20.5}
+        - {x: 13, y: 21.5}
+    - name: mon2_death_05
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 259
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 13}
+        - {x: 1.5, y: 14}
+        - {x: -3.5, y: 14}
+        - {x: -6.5, y: 12}
+        - {x: -3.5, y: 15}
+        - {x: 1.5, y: 15}
+        - {x: 3.5, y: 13}
+        - {x: 5.5, y: 13}
+        - {x: 10.5, y: 15}
+        - {x: 7.5, y: 21}
+        - {x: -12.5, y: 21}
+        - {x: -18.5, y: 17}
+        - {x: -18.5, y: -12}
+        - {x: -17.5, y: -16}
+        - {x: -12.5, y: -21}
+        - {x: 18.5, y: -21}
+        - {x: 18.5, y: 0}
+        - {x: 8.5, y: 13}
+    - name: mon2_death_06
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 264
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon2_death_07
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 272
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon2_skull_01
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 131
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon2_skull_02
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 130
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon2_skull_03
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 130
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon2_skull_04
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 131
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon2_skull_05
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 133
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon2_skull_06
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 145
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon2_skull_07
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 145
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

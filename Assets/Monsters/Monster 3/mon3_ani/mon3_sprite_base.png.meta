@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: af28002ec536f1d4caee26c9246b1fdc
+timeCreated: 1471167804
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mon3_idle_01
+    21300002: mon3_idle_02
+    21300004: mon3_idle_03
+    21300006: mon3_idle_04
+    21300008: mon3_idle_05
+    21300010: mon3_attack_01
+    21300012: mon3_attack_02
+    21300014: mon3_attack_03
+    21300016: mon3_attack_04
+    21300018: mon3_attack_05
+    21300020: mon3_death_01
+    21300022: mon3_death_02
+    21300024: mon3_death_03
+    21300026: mon3_death_04
+    21300028: mon3_death_05
+    21300030: mon3_death_06
+    21300032: mon3_death_07
+    21300034: mon3_death_08
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mon3_idle_01
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 206
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17.5}
+        - {x: -16, y: -12.5}
+        - {x: -10, y: -17.5}
+        - {x: 15, y: -17.5}
+        - {x: 16, y: -15.5}
+        - {x: 16, y: 17.5}
+    - name: mon3_idle_02
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 207
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17.5}
+        - {x: -18, y: -13.5}
+        - {x: -17, y: -17.5}
+        - {x: 16, y: -17.5}
+        - {x: 18, y: -14.5}
+        - {x: 18, y: 17.5}
+    - name: mon3_idle_03
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 209
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 16}
+        - {x: -23.5, y: 14}
+        - {x: -23.5, y: -14}
+        - {x: -18.5, y: -16}
+        - {x: 23.5, y: -16}
+        - {x: 23.5, y: 11}
+        - {x: 16.5, y: 16}
+    - name: mon3_idle_04
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 208
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon3_idle_05
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 207
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17.5}
+        - {x: -18, y: -13.5}
+        - {x: -17, y: -17.5}
+        - {x: 16, y: -17.5}
+        - {x: 18, y: -14.5}
+        - {x: 18, y: 17.5}
+    - name: mon3_attack_01
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 143
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17.5}
+        - {x: -18, y: -13.5}
+        - {x: -17, y: -17.5}
+        - {x: 16, y: -17.5}
+        - {x: 18, y: -14.5}
+        - {x: 18, y: 17.5}
+    - name: mon3_attack_02
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 141
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 18.5}
+        - {x: -18.5, y: -9.5}
+        - {x: -17.5, y: -18.5}
+        - {x: 18.5, y: -18.5}
+        - {x: 18.5, y: 18.5}
+    - name: mon3_attack_03
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 139
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 18}
+        - {x: 11.5, y: 15}
+        - {x: 7.5, y: 19}
+        - {x: -18.5, y: 19}
+        - {x: -23.5, y: 16}
+        - {x: -23.5, y: -12}
+        - {x: -15.5, y: -19}
+        - {x: 23.5, y: -19}
+        - {x: 23.5, y: 14}
+        - {x: 16.5, y: 19}
+    - name: mon3_attack_04
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 140
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16.5}
+        - {x: -22, y: 15.5}
+        - {x: -22, y: 0.5}
+        - {x: -14, y: -13.5}
+        - {x: -8, y: -16.5}
+        - {x: 13, y: -16.5}
+        - {x: 22, y: -9.5}
+        - {x: 22, y: 16.5}
+    - name: mon3_attack_05
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 141
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 18.5}
+        - {x: -18.5, y: -5.5}
+        - {x: -16.5, y: -16.5}
+        - {x: -13.5, y: -18.5}
+        - {x: 18.5, y: -18.5}
+        - {x: 18.5, y: 18.5}
+    - name: mon3_death_01
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 78
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17.5}
+        - {x: -16, y: -12.5}
+        - {x: -10, y: -17.5}
+        - {x: 15, y: -17.5}
+        - {x: 16, y: -15.5}
+        - {x: 16, y: 17.5}
+    - name: mon3_death_02
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 74
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -2}
+        - {x: 20, y: 1}
+        - {x: 20, y: 4}
+        - {x: 14, y: 20}
+        - {x: -24, y: 20}
+        - {x: -24, y: -6}
+        - {x: -15, y: -21}
+        - {x: -11, y: -22}
+        - {x: 23, y: -22}
+        - {x: 24, y: -21}
+        - {x: 24, y: 8}
+        - {x: 20, y: 0}
+      - - {x: 22, y: 19}
+        - {x: 18, y: 17}
+        - {x: 18, y: 13}
+        - {x: 21, y: 10}
+        - {x: 23, y: 10}
+        - {x: 24, y: 11}
+        - {x: 24, y: 19}
+      - - {x: 2, y: 22}
+        - {x: 1, y: 20}
+        - {x: 4, y: 17}
+        - {x: 6, y: 17}
+        - {x: 9, y: 20}
+        - {x: 8, y: 22}
+    - name: mon3_death_03
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 71
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: -16}
+        - {x: 24.5, y: -14}
+        - {x: 24.5, y: 22}
+        - {x: -24.5, y: 22}
+        - {x: -24.5, y: 3}
+        - {x: -19.5, y: -11}
+        - {x: -3.5, y: -24}
+        - {x: 22.5, y: -24}
+        - {x: 23.5, y: -19}
+        - {x: 20.5, y: -16}
+        - {x: 19.5, y: -16}
+      - - {x: 19.5, y: 5}
+        - {x: 18.5, y: 3}
+        - {x: 18.5, y: -2}
+        - {x: 21.5, y: -3}
+        - {x: 23.5, y: -3}
+        - {x: 24.5, y: -2}
+        - {x: 24.5, y: 5}
+      - - {x: 13.5, y: 24}
+        - {x: 12.5, y: 22}
+        - {x: 15.5, y: 19}
+        - {x: 16.5, y: 19}
+        - {x: 19.5, y: 22}
+        - {x: 18.5, y: 24}
+    - name: mon3_death_04
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 79
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 7.5}
+        - {x: 11, y: 7.5}
+        - {x: 16, y: 9.5}
+        - {x: 19, y: 12.5}
+        - {x: 22, y: 18.5}
+        - {x: -24, y: 18.5}
+        - {x: -24, y: -4.5}
+        - {x: -13, y: -18.5}
+        - {x: 18, y: -18.5}
+        - {x: 23, y: -9.5}
+        - {x: 24, y: -7.5}
+        - {x: 24, y: 4.5}
+      - - {x: 20, y: 11.5}
+        - {x: 17, y: 8.5}
+        - {x: 17, y: 6.5}
+        - {x: 20, y: 4.5}
+        - {x: 23, y: 4.5}
+        - {x: 24, y: 6.5}
+        - {x: 24, y: 10.5}
+        - {x: 21, y: 11.5}
+    - name: mon3_death_05
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 79
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 17.5}
+        - {x: -18.5, y: 13.5}
+        - {x: -18.5, y: -5.5}
+        - {x: -4.5, y: -17.5}
+        - {x: 18.5, y: -17.5}
+        - {x: 18.5, y: 8.5}
+        - {x: 10.5, y: 17.5}
+    - name: mon3_death_06
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 80
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon3_death_07
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 83
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mon3_death_08
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 93
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
